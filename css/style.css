@@ -58,7 +58,8 @@ body::-webkit-scrollbar-thumb {
     transform: translateY(-20%)
 }
 .card-text{
-    transform: translateY(-30%);
+    transform: translateY(-20%);
+    padding-top: .5em;
     font-family: Arial, Helvetica, sans-serif;
 }
 .buybtn{
