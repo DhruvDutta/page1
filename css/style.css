@@ -25,6 +25,7 @@ body::-webkit-scrollbar-thumb {
 }
 .navbar .h5,.navbar .h1{
     cursor: pointer;
+    user-select: none;
 }
 .navbar .h5{
     position: relative;
